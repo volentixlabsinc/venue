@@ -50,7 +50,7 @@ Based on the experience of other platforms, it is suggested that bounties are bo
 
 ## Functions Of A Bounty Program
 
-  - **Profiles: Ways for users to manage their personas online
+  - **Profiles:** Ways for users to manage their personas online
   - **Create Tasks:** Ability for contractors to create tasks.
   - **Escrow:** Hold the contractees stable coin allocated for the task.
   - **Payment:** Pay the Contractor upon proof of work.
