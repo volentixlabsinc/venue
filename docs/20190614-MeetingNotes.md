@@ -69,7 +69,7 @@ Tasks can be one to one or one to many. For example, a development work unit may
 - Fix a bug
 - Write a blog
 - Test software
-- Mow my lawn
+- Mow the lawn
 - Painting the house
 
 Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs should be able to use Venue as an escrow platform and create their own business models onto of it.
