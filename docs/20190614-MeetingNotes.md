@@ -6,11 +6,11 @@
   * [Scope](#scope)
   * [Actors:](#actors)
   * [Constraints](#constraints)
-  * [Stable Coin](#stable-coin)
   * [Functions Of A Bounty Program](#functions-of-a-bounty-program)
   * [Task Relationship](#task-relationship)
   * [Use Cases](#use-cases)
   * [2 Types Of Bounties](#2-types-of-bounties)
+  * [Stable Coin](#stable-coin)
   * [Things To Look At](#things-to-look-at)
 
 ## Vision Statement 
@@ -44,10 +44,6 @@ Venue should be bigger than Volentix. Anyone should be able to use the platform,
 3. The sytems backend must remain independant from its front end.
 4. The system architecture must be decentralized
 
-## Stable Coin
-
-Based on the experience of other platforms, it is suggested that bounties are bound to stable coins. As we will be using VDex under the hood, this should be a fairly trivial pattern.
-
 ## Functions Of A Bounty Program
 
   - **Profiles:** Ways for users to manage their personas online
@@ -78,6 +74,11 @@ Note that the last 2 are a bit toungue in cheek, however, they must remain in th
 
 1. Automated: Things like downloading Verto. Would require bots... potential marketplace for resale of bots.
 2. Verified: Needs a human intervention. For example, pull requests, documenation updates, security bugs, etc.
+
+
+## Stable Coin
+
+Based on the experience of other platforms, it is suggested that bounties are bound to stable coins. As we will be using VDex under the hood, this should be a fairly trivial pattern.
 
 ## Things To Look At
 
