@@ -1,5 +1,16 @@
 # Venue June 14, 2019 Meeting Notes
 
+  * [Vision Statement](#vision-statement)
+  * [Defining Bounty](#defining-bounty)
+  * [Why The Bounty Program](#why-the-bounty-program)
+  * [Scope](#scope)
+  * [Actors:](#actors)
+  * [Constraints](#constraints)
+  * [Stable Coin](#stable-coin)
+  * [Functions Of A Bounty Program](#functions-of-a-bounty-program)
+  * [Task Relationship](#task-relationship)
+  * [Use Cases](#use-cases)
+  * [Things To Look At](#things-to-look-at)
 
 ## Vision Statement 
 Venue is a bounty program.
@@ -61,5 +72,7 @@ Tasks can be one to one or one to many. For example, a development work unit may
 - Painting the house
 
 Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs should be able to use Venue as an escrow platform and create their own business models onto of it.
+
+## Things To Look At
 
 Sourcecred: https://github.com/sourcecred/sourcecred
