@@ -72,7 +72,7 @@ Tasks can be one to one or one to many. For example, a development work unit may
 - Mow the lawn
 - Painting the house
 
-Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs should be able to use Venue as an escrow platform and create their own business models onto of it.
+Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs will be able to use Venue as an escrow platform. This allows unknown entrepreneurs the freedom to create their own business models without impediment or restriction on the underlying protocol.
 
 ## 2 Types Of Bounties
 
