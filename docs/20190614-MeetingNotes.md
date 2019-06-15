@@ -10,6 +10,7 @@
   * [Functions Of A Bounty Program](#functions-of-a-bounty-program)
   * [Task Relationship](#task-relationship)
   * [Use Cases](#use-cases)
+  * [2 Types Of Bounties](#2-types-of-bounties)
   * [Things To Look At](#things-to-look-at)
 
 ## Vision Statement 
@@ -72,6 +73,11 @@ Tasks can be one to one or one to many. For example, a development work unit may
 - Painting the house
 
 Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs should be able to use Venue as an escrow platform and create their own business models onto of it.
+
+## 2 Types Of Bounties
+
+1. Automated: Things like downloading Verto. Would require bots... potential marketplace for resale of bots.
+2. Verified: Needs a human intervention. For example, pull requests, documenation updates, security bugs, etc.
 
 ## Things To Look At
 
