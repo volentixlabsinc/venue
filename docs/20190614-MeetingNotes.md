@@ -65,12 +65,12 @@ Tasks can be one to one or one to many. For example, a development work unit may
 
 ## Use Cases
 
-- Download Verto for 6 vtx
+- Download Verto
 - Fix a bug
 - Write a blog
 - Test software
 - Mow the lawn
-- Painting the house
+- Paint the house
 
 Note that the last 2 are a bit toungue in cheek, however, they must remain in the teams conciousness as third party entrepreneurs will be able to use Venue as an escrow platform. This allows unknown entrepreneurs the freedom to create their own business models without impediment or restriction on the underlying protocol.
 
