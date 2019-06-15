@@ -40,7 +40,7 @@ Venue should be bigger than Volentix. Anyone should be able to use the platform,
 ## Constraints
 
 1. In order to gain mass market adoption, Venue will be web based in prioriety over Verto integration.
-2. Before being build, the economics and business strategy must be finalized.
+2. Before Venue is built, the economics and business strategy must be finalized.
 3. The sytems backend must remain independant from its front end.
 4. The system architecture must be decentralized
 
@@ -50,14 +50,14 @@ Based on the experience of other platforms, it is suggested that bounties are bo
 
 ## Functions Of A Bounty Program
 
-  - Profiles: Ways for users to manage their personas online
-  - Create Tasks: Ability for contractors to create tasks.
-  - Escrow: Hold the contractees stable coin allocated for the task.
-  - Payment: Pay the Contractor upon proof of work.
-  - Integrate: Must integrate with many platforms such as facebook and twitter
-  - Find Tasks: Contractors must be able to find and discover tasks for their skill.
-  - Rating: A transparent, simple, rating system must be created for both contractors and contractees. Someing very simple like the Uber rating system.
-  - Arbitration: In cases where there is a dispute, a service of arbitration must be architected as a first class solution.
+  - **Profiles: Ways for users to manage their personas online
+  - **Create Tasks:** Ability for contractors to create tasks.
+  - **Escrow:** Hold the contractees stable coin allocated for the task.
+  - **Payment:** Pay the Contractor upon proof of work.
+  - **Integrate:** Must integrate with many platforms such as facebook and twitter
+  - **Find Tasks:** Contractors must be able to find and discover tasks for their skill.
+  - **Rating:** A transparent, simple, rating system must be created for both contractors and contractees. Someing very simple like the Uber rating system.
+  - **Arbitration:** In cases where there is a dispute, a service of arbitration must be architected as a first class solution.
 
 ## Task Relationship
 
